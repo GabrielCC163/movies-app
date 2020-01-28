@@ -29,7 +29,7 @@ $ git clone https://github.com/samaronybarros/movies-app.git
 ## Configuring App
 
 If you have all the prerequisites installed you should verify if your MongoDB is up.
-
+sudo service mongod start/status/stop
 ```
 $ cd movies-app
 $ cd server
